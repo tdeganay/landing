@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  box-align: center;
+  margin-bottom: 40px;
+}
+
+.card-components {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border: solid 2px black;
+  border-radius: 15px;
+  justify-content: space-between;
+  box-shadow: 0px 0px 4px black;
+}
+
+.up-cards h2{
+text-align: center;
+}
